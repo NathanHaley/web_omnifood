@@ -7,6 +7,8 @@ In this course we built a site for the fictional company Omnifood. Applied are m
 
 All assets and content provided by course thru udemy.com.
 
+To view my example site please visit http://omnifood.nathanhaley.com
+
 ##Screenshots:
 <img src="omnifood1.png" alt="Omnifood Main Screen" style="width: 500px;" width=500 /><br>
 <img src="omnifood2.png" alt="Omnifood Details Screen" style="width: 500px;" width=500 /><br>
